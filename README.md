@@ -1,4 +1,4 @@
-# Store Rating Platform
+# Finance dashboard
 Full-stack finance dashboard with FastAPI backend, MySQL persistence, JWT/OTP access control, and a React + Tailwind frontend.
 
 ## Architecture
